@@ -30,7 +30,7 @@ Default Rate = Total Customer of Default/ Total All Customer * 100%
 **Modelling**
 ---
 1. Evaluation target is Precision (True Positive / (True Positive + False Positive))
-2. 6 Model are tested and comapare each model result to get best precision value
+2. 6 Model are tested and compared each model result to get best precision value
 3. Random forest has the highest precision value compared to other models where the precision value obtained is 66%
 
 **Business Insights & Recommendation**
