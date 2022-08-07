@@ -25,7 +25,7 @@ Default Rate = Total Customer of Default/ Total All Customer * 100%
 3.Data Transformation
 4.Outlier Handling
 5.Feature Selection
-6.Imbalance Target Handling
+6.Imbalance Data Handling
 
 **Modelling**
 ---
