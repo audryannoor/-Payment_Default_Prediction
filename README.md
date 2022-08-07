@@ -11,10 +11,6 @@ Bank Janata Taiwan in 2005 had a problem that has 22.12% default rate. That 22.1
 ---
 Default Rate = Total Customer of Default/ Total All Customer * 100%
 
-**Objective**
----
-Memprediksi user mana saja yang akan default, kemudian memberikan **Treatment** khusus pada user tersebut sehingga diharapkan agar tidak default pada bulan tersebut
-
 **Exploratory Data Analysis**
 ---
 1. Most credit card customer are women
@@ -24,15 +20,18 @@ Memprediksi user mana saja yang akan default, kemudian memberikan **Treatment** 
 
 **Data Pre-processing**
 ---
-1. Tidak ditemukan data yang null
-2. Tidak ditemukan data yang duplicate
-3. Membuat Feature baru untuk memperkuat prediksi model yang akan dibuat (Age Group, Membership, Minimum Amount (1-5), Pending amount(1-5)
-4. Melakukan feature encoding pada beberapa data kategorikal (Age_Group, Limit_Segment)
+1.Handling Duplicate Value and Missing Value
+2.Feature Encoding
+3.Data Transformation
+4.Outlier Handling
+5.Feature Selection
+6.Imbalance Target Handling
 
-**Modeling**
+**Modelling**
 ---
-1. Split data Train dan Test dengan ratio 70:30 (14900:6100)
-2. Metric utama yang akan digunakan dalam mengevaluasi performa model adalah precision
-3. Menerapkan beberapa algoritma seperti Decision Tree, kNN, Logistic Regression, Random Forest, XGboost, AdaBoostpada untuk membuat model yang kemudian akan dibandingkan performanya
-4. Berdasarkan hasil perbandingan tiap model, Model AdaBoost dan Random Forest memiliki nilai precision yang tinggi dibandingkan model lain.
+1. Evaluation target is Precision (True Positive / (True Positive + False Positive))
+2. 6 Model are tested and comapare each model result to get best precision value
+3. Random forest has the highest precision value compared to other models where the precision value obtained is 66%
 
+**Business Insights & Recommendation**
+---
