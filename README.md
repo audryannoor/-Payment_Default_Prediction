@@ -20,12 +20,12 @@ Default Rate = Total Customer of Default/ Total All Customer * 100%
 
 **Data Pre-processing**
 ---
-1.Handling Duplicate Value and Missing Value
-2.Feature Encoding
-3.Data Transformation
-4.Outlier Handling
-5.Feature Selection
-6.Imbalance Data Handling
+1. Handling Duplicate Value and Missing Value
+2. Feature Encoding
+3. Data Transformation
+4. Outlier Handling
+5. Feature Selection
+6. Imbalance Data Handling
 
 **Modelling**
 ---
