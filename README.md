@@ -48,3 +48,5 @@ Recomendation :
 
 We assume that if the recommendations we provide are implemented then we can potentialy decrease the default rate to 14% , potentialy increase Bank Revenue by 9%, and potentialy decrease loss by 33%
 ![Decrease Default Rate](https://user-images.githubusercontent.com/68262798/184372392-150e7c87-fb50-46d3-a931-c166e134a196.png)
+
+![Result](https://user-images.githubusercontent.com/68262798/184373660-1531b5d6-2a1b-4f95-930a-41cd63b0e9fd.png)
