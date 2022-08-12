@@ -41,10 +41,10 @@ We create a business flow to make it easier to explain implement the model we cr
 ![Business Flow](https://user-images.githubusercontent.com/68262798/184369070-eca30e7a-ab21-4e56-97e4-0b3e25b5d021.png)
 
 Recomendation :
-1.SMS & Phone Reminder
-2.Payment Scheme with Installments
-3.Credit restructuring
-4.Billing for Customers who do not make payments
+1. SMS & Phone Reminder
+2. Payment Scheme with Installments
+3. Credit restructuring
+4. Billing for Customers who do not make payments
 
 We assume that if the recommendations we provide are implemented then we can potentialy decrease the default rate to 14% , potentialy increase Bank Revenue by 9%, and potentialy decrease loss by 33%
 ![Decrease Default Rate](https://user-images.githubusercontent.com/68262798/184372392-150e7c87-fb50-46d3-a931-c166e134a196.png)
