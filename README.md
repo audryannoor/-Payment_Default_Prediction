@@ -5,7 +5,7 @@ Dataset : [JANATA BANK Payment Default Prediction](https://www.kaggle.com/datase
 ---
 Bank Janata Taiwan in 2005 had a problem that has 22.12% default rate. That 22.12% default rate is too high than the fair value of the default rate that should be.This will made Bank Janata more lose revenue if it is not handled properly. We have goal to decrease the default rate to under 15% and increase potential revenue up to 5% by:
 - Predict whether customers will default or not next month using predictive modelling
-- Annalyze the factor that affect the increase in default rate
+- Analyze the factor that affect the increase in default rate
 
 **Business Metric**
 ---
@@ -50,3 +50,13 @@ We assume that if the recommendations we provide are implemented then we can pot
 ![Decrease Default Rate](https://user-images.githubusercontent.com/68262798/184372392-150e7c87-fb50-46d3-a931-c166e134a196.png)
 
 ![Result](https://user-images.githubusercontent.com/68262798/184373660-1531b5d6-2a1b-4f95-930a-41cd63b0e9fd.png)
+
+
+
+
+Credit :
+1. https://www.linkedin.com/in/rafif-noor-audryan/
+2. https://www.linkedin.com/in/amishargi/
+3. https://www.linkedin.com/in/nandadpma/
+4. https://www.linkedin.com/in/firlyfardilla/
+5. https://www.linkedin.com/in/alfiyanfaissofihidayat/
