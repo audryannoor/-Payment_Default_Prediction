@@ -35,7 +35,7 @@ Default Rate = Total Customer of Default / Total All Customer * 100%
 
 **Business Insights & Recommendation**
 ---
-We create a business flow to make it easier to explain implement the model we created to achieve the goal.After implemnted the model, we know who customer will potentially default next month and who non default. If model predict customer will default, we have recomendation that bank janata can do. We hope that the recommendations we provide can be achieved where the customer who is predicted to default will be no default.
+We create a business flow to make it easier to explain implement the model we created to achieve the goal.After implemented the model, we know who customer will potentially default next month and who non default. If model predict customer will default, we have recomendation that bank janata can do. We hope that the recommendations we provide can be achieved where the customer who is predicted to default will be no default.
 
 
 ![Business Flow](https://user-images.githubusercontent.com/68262798/184369070-eca30e7a-ab21-4e56-97e4-0b3e25b5d021.png)
