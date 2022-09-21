@@ -1,4 +1,4 @@
-# Payment_Default_Prediction
+# Payment Default Prediction
 Dataset : [JANATA BANK Payment Default Prediction](https://www.kaggle.com/datasets/reverie5/av-janata-hack-payment-default-prediction)
 
 **Background**
